@@ -1,3 +1,0 @@
-# qlasm
-
-The qlASM project?
